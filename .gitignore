@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# visual studio code
+.vscode
+
+# webstorm
+.idea
